@@ -9,7 +9,7 @@ export const config = {
   // 公众号APP_SECRET
   APP_SECRET: "67ee166c3c37a4213fa9ddbebf252367",
   // 模板消息id
-  TEMPLATE_ID:"zgb5dPpzscSFe28uX0UCf1LkoXvUnaI-sNybuJsdqr0",
+  TEMPLATE_ID:"q3WqrVegqPXhkSGsFVMangUtS3rgRPK5xw_EI3yGz0g",
   //
   USERS：["orI0y59QXTeXy6f_1LtVzBhDkaao","orI0y5xSq2oMpHLboQWMkCcXEkt4"],
 
@@ -44,7 +44,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
@@ -77,11 +77,6 @@ export const config = {
     ]},
   ],
 
-  /** 每日一言 */
-
-  // 好文节选的内容类型
-  // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
 
 
 }
