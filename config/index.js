@@ -7,9 +7,9 @@ export const config = {
   APP_ID: "wxc84bdd767e5fbdc4",
 
   // 公众号APP_SECRET
-  APP_SECRET: "67ee166c3c37a4213fa9ddbebf252367",
+  APP_SECRET: "541cc654a5ffd38079f170b640b7b5ca",
   // 模板消息id
-  TEMPLATE_ID:"q3WqrVegqPXhkSGsFVMangUtS3rgRPK5xw_EI3yGz0g",
+  TEMPLATE_ID:"	IF1k3G4Od_sWehjXManbEg-F7j1fVvwNayFwzdZWxYM",
   //
   USERS：["orI0y59QXTeXy6f_1LtVzBhDkaao","orI0y5xSq2oMpHLboQWMkCcXEkt4"],
 
@@ -31,7 +31,7 @@ export const config = {
    * 重要节日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
    * tpye必须填！ 只能 “生日” 和 “节日” 二选一!
    * 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
-   * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
+   * 节日时，name填写相应展示的节日，你可以填“恋爱纪念日”
    */
   FESTIVALS: [
     {"type": "生日", "name": "莹姐", "year": "2023", "date": "07-14"},
