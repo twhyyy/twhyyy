@@ -9,7 +9,7 @@ export const config = {
   // 公众号APP_SECRET
   APP_SECRET: "541cc654a5ffd38079f170b640b7b5ca",
   // 模板消息id
-  TEMPLATE_ID:"	IF1k3G4Od_sWehjXManbEg-F7j1fVvwNayFwzdZWxYM",
+  TEMPLATE_ID:"IF1k3G4Od_sWehjXManbEg-F7j1fVvwNayFwzdZWxYM",
   //
   USERS：["orI0y59QXTeXy6f_1LtVzBhDkaao","orI0y5xSq2oMpHLboQWMkCcXEkt4"],
 
